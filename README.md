@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20160324173914%21Node.js_logo.svg" alt="Node.JS">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/320px-Node.js_logo.svg.png" alt="Node.JS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20170429090804%21Expressjs.png" alt="Express.JS">
     <img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="PM2">
 </p>
