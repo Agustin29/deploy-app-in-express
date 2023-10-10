@@ -6,8 +6,8 @@
 
 ## SERVIDOR BASE PARA HACER DEPLOY DE UNA APP USANDO EXPRESS.JS
 
-Esta base funciona para hacer deploy de alguna aplicación hecha con las tecnologias
-de: 
+Esta base funciona para hacer deploy de alguna aplicación hecha con las tecnologias: 
+
 - Angular.ts
 - React.jsx
 - Vue.js 
