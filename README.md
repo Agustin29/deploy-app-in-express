@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" height="500" width="500" alt="Node.JS">
+    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" height="200" width="500" alt="Node.JS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20170429090804%21Expressjs.png" alt="Express.JS">
     <img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="PM2">
 </p>
