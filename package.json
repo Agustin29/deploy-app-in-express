@@ -1,0 +1,20 @@
+{
+  "name": "basedeployapp",
+  "version": "1.0.0",
+  "description": "Aplicacion de Lo que Sea version 1.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "AgtBta...",
+  "license": "MIT",
+  "dependencies": {
+    "connect-history-api-fallback": "^2.0.0",
+    "express": "^4.18.1"
+  }
+}
